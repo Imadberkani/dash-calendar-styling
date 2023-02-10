@@ -118,7 +118,7 @@ code.hljs{
   color: #f3dbd3;
   border-color:#f3dbd3 ;
 } */
-.dbc .Select-value {
+/* .dbc .Select-value {
   border: 1px #f3dbd3 !important;
   background-color: #f3dbd3;
   color: #f3dbd3;
@@ -126,6 +126,20 @@ code.hljs{
   }
 
 .dbc .Select-value-label {
-    color: red;
-    background-color:red
+    color: black;
+    background-color: #f3dbd3;
+    border-color: 3px solid gray;
     }  
+
+.dbc .Select--multi {
+  color: gray;
+  background-color: #f3dbd3;
+  }      
+.dbc .Select-option:hover {
+  background-color: red;
+  color: white;
+}  
+
+.dbc td.cell--selected:hover {
+  background-color: red !important;
+  } */
